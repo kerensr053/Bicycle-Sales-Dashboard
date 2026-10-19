@@ -154,9 +154,8 @@ example, inside a folder named `images/`---and use these links:
 Bicycle-Sales-Dashboard/
 ├── README.md
 ├── Bicycle-Sales-Dashboard.pbix
-└── images/
-    ├── Bicycle Dashboard 1.png
-    └── Bicycle Dashboard 2.png
+├── Bicycle Dashboard 1.png
+└── Bicycle Dashboard 2.png
 ```
 
 ## 🔮 Possible Future Improvements
