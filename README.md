@@ -131,12 +131,12 @@ example, inside a folder named `images/`---and use these links:
 ### Dashboard View 1
 
 ![Bicycle Sales Dashboard --- View
-1](images/Bicycle%20Dashboard%201.png)
+1]([images/Bicycle%20Dashboard%201.png](https://github.com/kerensr053/Bicycle-Sales-Dashboard/blob/main/Bicycle%20Dashboard%201.png)https://github.com/kerensr053/Bicycle-Sales-Dashboard/blob/main/Bicycle%20Dashboard%201.png)
 
 ### Dashboard View 2
 
 ![Bicycle Sales Dashboard --- View
-2](images/Bicycle%20Dashboard%202.png)
+2]([images/Bicycle%20Dashboard%202.png](https://github.com/kerensr053/Bicycle-Sales-Dashboard/blob/main/Bicycle%20Dashboard%202.png))
 
 ## 🚀 How to Use
 
@@ -172,8 +172,8 @@ Bicycle-Sales-Dashboard/
 
 **Keren Susanna Roy**
 
-LinkedIn profile: https://www.linkedin.com/in/keren-susanna-roy-649a59228/
-GitHub username: https://github.com/kerensr053
+- LinkedIn profile: https://www.linkedin.com/in/keren-susanna-roy-649a59228/
+- GitHub username: https://github.com/kerensr053
 
 
 ------------------------------------------------------------------------
